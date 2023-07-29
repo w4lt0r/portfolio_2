@@ -1,0 +1,38 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+img{
+  padding:5px;
+}
+
+.header{
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navLinks{
+  padding: 8px;
+}
+
+.navLinks a{
+  padding: 4px;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.row{
+  display: flex;
+  padding: 10px;
+}
+
+.rowTitle{
+  width:100px;
+}
+
+#meAndMimi{
+  float: left;
+}
